@@ -7,4 +7,5 @@ I will normally add the Fusion 360 file along with an .x3g file for FlashForges,
 List of models in this folder:
 1. Laptop cooling arms
 2. Surfboard fin
-3. (Upcoming) Mod for Gigabot 3+ Off the grid mode
+3. Note 5 CAD files
+4. (Upcoming) Mod for Gigabot 3+ Off the grid mode
